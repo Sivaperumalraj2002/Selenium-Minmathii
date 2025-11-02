@@ -12,8 +12,8 @@ import time
 root_url = r"https://minmathiidcard.bontonsoftwares.com/#/login"
 node_url = r"https://minmathiidcard.bontonsoftwares.com/#/main/page/mathi/members/view/"
 
-user_name = "dharmapuri"
-password = "1234"
+user_name = "username"
+password = "password"
 
 chrome_options = Options()
 driver = webdriver.Chrome(options=chrome_options)  # Modern versions of Selenium will automatically manage the driver
