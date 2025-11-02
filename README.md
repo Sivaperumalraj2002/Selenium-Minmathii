@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```
 
 3. **Place your dataset**
-Save your Excel file as dataset.xlsx in the same directory.
+* Save your Excel file as dataset.xlsx in the same directory.
 
 4. **Run the project**
 
