@@ -45,10 +45,13 @@ It uses Selenium to interact with the website and Pandas to process data from Ex
 
 ```bash
 pip install -r requirements.txt
+```
 
 3. **Place your dataset**
-Save your Excel file as dataset.xlsx in the same directory.
+   Save your Excel file as dataset.xlsx in the same directory.
 
 4. **Run the project**
-python main.py
+
+```bash
+ python main.py
 ```
